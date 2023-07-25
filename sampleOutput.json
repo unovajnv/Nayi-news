@@ -1,0 +1,1303 @@
+ articles = [
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.com"
+    },
+    "author": "Michelle Ehrhardt",
+    "title": "MacBook Pro 2023 Review: You Should Probably Wait for OLED",
+    "description": "Apple’s 2023 14 and 16 inch MacBook Pros are here, and they look mostly the same as the 2021 models. The insides, though, are anything but. This generation of Apple powerhouses introduces the M2 Pro and M2 Max chips, finally giving professionals an M2 MacBook…",
+    "url": "https://gizmodo.com/apple-macbook-pro-m2-max-14-16-inch-review-worth-it-1850016925",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a8c93dfdc89afae3c56e4d9748aad6b6.png",
+    "publishedAt": "2023-01-23T14:00:00Z",
+    "content": "Apples 2023 14 and 16 inch MacBook Pros are here, and they look mostly the same as the 2021 models. The insides, though, are anything but. This generation of Apple powerhouses introduces the M2 Pro a… [+20554 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Apple targeting to raise India production share to 25% - minister - Reuters",
+    "description": "Apple Inc <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> wants India to account for up to 25% of its production from about 5%-7% now, the trade minister told a conference on Monday.",
+    "url": "https://www.reuters.com/technology/apple-targeting-raise-india-production-share-25-minister-2023-01-23/",
+    "urlToImage": "https://www.reuters.com/resizer/LMv0KZCDaA9zeZi3Gjo54WRlvjQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZVJNEEXUG5LWBIL2L4PPR46OHM.jpg",
+    "publishedAt": "2023-01-23T06:48:00Z",
+    "content": "NEW DELHI, Jan 23 (Reuters) - Apple Inc (AAPL.O) wants India to account for up to 25% of its production from about 5%-7% now, the trade minister told a conference on Monday.\r\n\"Apple, another success … [+384 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "andrew.myrick@futurenet.com (Andrew Myrick)",
+    "title": "Google shouldn't release the Pixel 8",
+    "description": "The smartphone market (and the world, for that matter) are in a weird spot. Maybe Google should skip the Pixel 8, and breath some fresh new life into the market in 2024.",
+    "url": "https://www.androidcentral.com/phones/google-should-not-release-pixel-8",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/Fhd6Eyj54cBX7Dpxxi8GpE-1200-80.jpg",
+    "publishedAt": "2023-01-23T13:30:00Z",
+    "content": "When it comes to the tech space, our collective eyes are almost always looking to the future, quick to forget about what we already have. It happens every year whenever a new phone is rumored, spinni… [+5618 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "nicholas.sutrich@futurenet.com (Nicholas Sutrich)",
+    "title": "Wear OS 3 finally fixes the problems Android watches have had for years",
+    "description": "Google and Samsung have worked together to create what feels like the perfect smartwatch OS, but it's only that good on a scant few watches.",
+    "url": "https://www.androidcentral.com/wearables/wear-os-3-finally-fixes-the-problems-android-watches-have-had-for-years",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/qUdyHbmS6mhjAkggEqJAMn-1200-80.jpg",
+    "publishedAt": "2023-01-23T14:30:00Z",
+    "content": "It's been a very, very long time since I've enjoyed owning a smartwatch. The biggest problem was that, no matter what operating system I tried, Android smartwatches were just such second-rate experie… [+7786 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Clare Finney",
+    "title": "Endangered foods: why our diet is narrower than ever – and these seven foods urgently need saving",
+    "description": "Cheshire cheese, beremeal and norfolk beefing apples are among the UK foods at risk of vanishing for ever. And it’s not just our palates that will suffer, but the planetWhat does it mean when a food or drink becomes “endangered”, when there are so few people …",
+    "url": "https://www.theguardian.com/food/2023/jan/23/endangered-foods-why-our-diet-is-narrower-than-ever-and-these-seven-foods-urgently-need-saving",
+    "urlToImage": "https://i.guim.co.uk/img/media/50cf6d4ca9ea90270871334e778d42b3de9f2af8/0_339_5288_3173/master/5288.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fcc83089fb8f1b0248f8fbac80caeacc",
+    "publishedAt": "2023-01-23T10:00:01Z",
+    "content": "What does it mean when a food or drink becomes endangered, when there are so few people producing it that it is on the brink of disappearing for ever? Should we worry, as we do about ancient ruins an… [+12947 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Benjamin Lee in Park City, Utah",
+    "title": "Flora and Son review – musical crowd-pleaser plays a simple but sweet tune",
+    "description": "Sundance film festival: Once writer-director John Carney has made another winning, if flawed, film about music and love with a standout lead turn from Eve HewsonOne of the biggest Covid losses for Sundance and for those who both premiere and acquire films the…",
+    "url": "https://www.theguardian.com/film/2023/jan/23/flora-and-son-movie-review-sundance",
+    "urlToImage": "https://i.guim.co.uk/img/media/abbf28fff714d4c822bb71595081c508dac9cb41/80_0_2400_1440/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=0f13f30bff1d4305d939bf2fb763b088",
+    "publishedAt": "2023-01-23T17:08:03Z",
+    "content": "One of the biggest Covid losses for Sundance and for those who both premiere and acquire films there, has been the lack of in-person audience reaction over the last two years, something that has trad… [+4606 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "Apple Releases tvOS 16.3",
+    "description": "Apple today released tvOS 16.3, the third major point update to the tvOS 16 operating system that originally came out in September. Available for the Apple TV 4K and ‌Apple TV‌ HD, tvOS 16.3 comes six weeks after tvOS 16.2, an update that added Apple Music Si…",
+    "url": "https://www.macrumors.com/2023/01/23/apple-releases-tvos-16-3/",
+    "urlToImage": "https://images.macrumors.com/t/vOj7L5pjyFQ52crLtQ9BNDiGyJY=/2500x/article-new/2022/06/apple-tv-4k-red-image.jpg",
+    "publishedAt": "2023-01-23T18:37:57Z",
+    "content": "Apple today released tvOS 16.3, the third major point update to the tvOS 16 operating system that originally came out in September. Available for the Apple TV 4K and ‌Apple TV‌ HD, tvOS 16.3 comes si… [+684 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "Apple Releases macOS Ventura 13.2",
+    "description": "Apple today released macOS Ventura 13.2, the second major update to the ‌macOS Ventura‌ operating system initially released in October. ‌macOS Ventura‌ 13.2 comes more than a month after ‌macOS Ventura‌ 13.1, an update that added the Freeform app and other ch…",
+    "url": "https://www.macrumors.com/2023/01/23/apple-releases-macos-ventura-13-2/",
+    "urlToImage": "https://images.macrumors.com/t/RuOYWHNEx28iurfvbwOjmsZoXfg=/2500x/article-new/2022/06/Ventura-Macs-Feature-Blue.jpg",
+    "publishedAt": "2023-01-23T18:09:25Z",
+    "content": "Apple today released macOS Ventura 13.2, the second major update to the ‌macOS Ventura‌ operating system initially released in October. ‌macOS Ventura‌ 13.2 comes more than a month after ‌macOS Ventu… [+1505 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Sami Fathi",
+    "title": "What's Next for the Mac: M3 iMac, 15-Inch MacBook Air, Mac Pro, and More",
+    "description": "Apple last week announced a slate of new Macs, including an updated Mac mini with M2 and M2 Pro processors and faster 14-inch and 16-inch MacBook Pros with the all-new M2 Pro and M2 Max chips.\n\n\n\n\n\nWith just modest updates, the new Macs have left some wonderi…",
+    "url": "https://www.macrumors.com/2023/01/23/whats-next-for-the-mac/",
+    "urlToImage": "https://images.macrumors.com/t/zKhRon7uBjkZ16Zwn6SSG9Np2Zg=/1600x/article-new/2023/01/apple-silicon-mac-lineup-wwdc-2022-feature-blue.jpg",
+    "publishedAt": "2023-01-23T15:21:50Z",
+    "content": "Apple last week announced a slate of new Macs, including an updated Mac mini with M2 and M2 Pro processors and faster 14-inch and 16-inch MacBook Pros with the all-new M2 Pro and M2 Max chips.\r\nWith … [+4396 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "Apple Releases watchOS 9.3 With New Watch Face, Bug Fixes",
+    "description": "Apple today released watchOS 9.3, the third major update to the watchOS 9 operating system that first launched in September. watchOS 9.3 comes over a month after watchOS 9.2, an update that added new Workout functionality and Crash Detection optimizations.\n\n\n…",
+    "url": "https://www.macrumors.com/2023/01/23/apple-releases-watchos-9-3/",
+    "urlToImage": "https://images.macrumors.com/t/sUUjBuDVa3G6Y8qz8xFeXKPaj1U=/1600x/article-new/2022/06/watchOS-9-Feature.jpg",
+    "publishedAt": "2023-01-23T18:06:00Z",
+    "content": "Apple today released watchOS 9.3, the third major update to the watchOS 9 operating system that first launched in September. watchOS 9.3 comes over a month after watchOS 9.2, an update that added new… [+533 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Joe Rossignol",
+    "title": "New MacBook Pro Reviews Offer Hands-On Look at Performance and Upgraded Specs",
+    "description": "The new 14-inch and 16-inch MacBook Pro models will start arriving to customers and launch in stores this Tuesday. Ahead of time, the first reviews of the laptops have been shared by select media publications and YouTube channels.\n\n\n\n\n\nPowered by Apple's late…",
+    "url": "https://www.macrumors.com/review/macbook-pro-m2-pro-m2-max/",
+    "urlToImage": "https://images.macrumors.com/t/ENUxq3xBCYWdt2w4W6_Q6h3z-wQ=/2500x/article-new/2023/01/Apple-MacBook-Pro-M2-Feature-Blue-Green.jpg",
+    "publishedAt": "2023-01-23T14:13:43Z",
+    "content": "The new 14-inch and 16-inch MacBook Pro models will start arriving to customers and launch in stores this Tuesday. Ahead of time, the first reviews of the laptops have been shared by select media pub… [+3311 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Dan Ackerman",
+    "title": "M2 Mac Mini 2023 Review: Apple Adds M2 and M2 Pro Chips to This Tiny Desktop - CNET",
+    "description": "Better performance keeps the Mac Mini a top pick for podcasters and content creators.",
+    "url": "https://www.cnet.com/tech/computing/m2-mac-mini-2023-review-apple-adds-m2-and-m2-pro-chips-to-this-tiny-desktop/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/857c7d2ead3c7dd82fbdd80c989dface6664559e/hub/2023/01/20/b0b1964c-ac2d-4951-9c5d-68af77692ed7/apple-mac-mini-2023-3277.jpg?auto=webp&fit=crop&height=630&width=1200",
+    "publishedAt": "2023-01-23T14:00:17Z",
+    "content": "Editor's note: Our testing of the new Mac Mini is ongoing and this review will be updated with additional test results and a final rating. \r\nThe Mac Mini desktop is one of Apple's longest-standing pr… [+15166 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "McKenzie Dillon",
+    "title": "Stop Working Out on an Empty Stomach. You're Missing Out on Big Muscle Gains - CNET",
+    "description": "Working out on an empty stomach doesn't boost your metabolism, and it might negatively affect your health.",
+    "url": "https://www.cnet.com/health/fitness/stop-working-out-on-an-empty-stomach-youre-missing-out-on-big-muscle-gains/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/a63b8461df994ced73cbf650c313ec4dae86c194/hub/2023/01/20/643859e0-d7f5-4b6e-90e8-278c1e622269/gettyimages-508480593.jpg?auto=webp&fit=crop&height=630&width=1200",
+    "publishedAt": "2023-01-23T14:00:07Z",
+    "content": "Every workout comes with a list of do's and don'ts. Don't wear open-toed shoes, do stretches before your workout, and if it's not already on your list, don't work out on an empty stomach. As you've h… [+2786 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "mkish@insider.com (Matthew Kish)",
+    "title": "A Nike exec says a phisher stole his NFTs. Here are 3 things everyone should do to protect a digital wallet",
+    "description": "Even a virtual-collectibles executive can be hit. \"It happens to everyone,\" an analyst said; experts say some simple steps can help prevent NFT theft.",
+    "url": "https://www.businessinsider.com/nike-rtfkt-executive-nfts-stolen-3-steps-protect-digital-wallet-2023-1",
+    "urlToImage": "https://i.insider.com/63cb0af7b9a04b0019ed8c4f?width=1200&format=jpeg",
+    "publishedAt": "2023-01-23T12:00:00Z",
+    "content": "One of Nike's top virtual-collectibles executives had an estimated $173,000 of NFTs stolen from his crypto wallet this month.\r\nExperts said it's unlikely the assets will get recovered, but said there… [+3373 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "Apple Releases iOS 16.3 With Security Keys for Apple ID, New HomePod Support, Bug Fixes and More",
+    "description": "Apple today released iOS 16.3, the third major update to the iOS 16 operating system that first came out in September. iOS 16.3 comes over a month after the launch of iOS 16.2, an update that added the Freeform app, Apple Music Sing, Advanced Data Protection,…",
+    "url": "https://www.macrumors.com/2023/01/23/apple-releases-ios-16-3/",
+    "urlToImage": "https://images.macrumors.com/t/uRw4tKRjQlH6bVFkF0fbPEt-ikk=/2500x/article-new/2022/12/iOS-16.3-Feature.jpg",
+    "publishedAt": "2023-01-23T18:10:17Z",
+    "content": "Apple today released iOS 16.3, the third major update to the iOS 16 operating system that first came out in September. iOS 16.3 comes over a month after the launch of iOS 16.2, an update that added t… [+2710 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Hartley Charlton",
+    "title": "Mac Mini vs. Mac Studio Buyer's Guide",
+    "description": "The Mac Studio debuted in 2022 as Apple's most powerful custom silicon standalone desktop computer. Now, with the launch of the latest Mac mini models, the ‌Mac Studio‌ faces a formidable competitor that offers \"Pro\" capabilities at a substantially lower pric…",
+    "url": "https://www.macrumors.com/guide/mac-mini-vs-mac-studio/",
+    "urlToImage": "https://images.macrumors.com/t/m79dv9AStgwAPaD5RnwCYiLBLUA=/2500x/article-new/2022/03/mac-studio-vs-mac-mini.jpg",
+    "publishedAt": "2023-01-23T16:00:00Z",
+    "content": "The Mac Studio debuted in 2022 as Apple's most powerful custom silicon standalone desktop computer. Now, with the launch of the latest Mac mini models, the ‌Mac Studio‌ faces a formidable competitor … [+6553 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Slashdot.org"
+    },
+    "author": "msmash",
+    "title": "Banks Plan Payment Wallet To Compete With PayPal, Apple Pay",
+    "description": "Big banks are teaming up to launch a digital wallet that people can use to shop online. Wells Fargo, Bank of America, JPMorgan Chase and four other banks are working on a new product that will allow shoppers to pay at merchants' online checkout with a wallet …",
+    "url": "https://tech.slashdot.org/story/23/01/23/177229/banks-plan-payment-wallet-to-compete-with-paypal-apple-pay",
+    "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
+    "publishedAt": "2023-01-23T17:20:00Z",
+    "content": "Amazon's talking about expanding their Prime service so third parties can use it to accept payments and perform the necessary shipping (to be clear, I'm not talking about affiliates, I'm talking abou… [+311 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "dsiu@insider.com (Diamond Naga Siu)",
+    "title": "An Apple a day could keep the layoffs away",
+    "description": "",
+    "url": "https://www.businessinsider.com/an-apple-a-day-could-keep-the-layoffs-away-2023-1",
+    "urlToImage": "https://i.insider.com/63cc2d19b9a04b0019ed9625?width=1200&format=jpeg",
+    "publishedAt": "2023-01-23T11:35:00Z",
+    "content": "Happy Year of the Rabbit, reader. I had a lovely time celebrating with my mom for the first time in more than five years. Plus, I finally had a moment to chill after weeks of nonstop travel.\r\nFor man… [+4428 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "insider@insider.com (Lauren Crosby Medlicott)",
+    "title": "I'm the CEO of $560 million food brand Huel. I wear the same thing to work every day and always get 7.5 hours of sleep — here's what my morning routine is like.",
+    "description": "Huel CEO James McMaster spoke to Insider about how he keeps his mornings productive, from muting notifications to, unsurprisingly, drinking Huel.",
+    "url": "https://www.businessinsider.com/huel-morning-routine-ceo-james-mcmaster-2023-1",
+    "urlToImage": "https://i.insider.com/63c58334bcd21800196b7f96?width=1200&format=jpeg",
+    "publishedAt": "2023-01-23T10:00:08Z",
+    "content": "This as-told-to essay is based on a conversation with James McMaster, the CEO of Huel, a meal-replacement drink brand, about his morning routine. It has been edited for length and clarity. \r\nMy typic… [+4174 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "insider@insider.com (Robin Madell)",
+    "title": "I coach workers at Amazon and Google through layoffs. Here's what I tell those who've been let go and those left behind.",
+    "description": "Alisa Cohen says laid-off Gen Z and Gen X tech workers alike want jobs that align with their values, and they're taking their time to find them.",
+    "url": "https://www.businessinsider.com/big-tech-career-coach-layoffs-google-microsoft-amazon-2023-1",
+    "urlToImage": "https://i.insider.com/63ceab16b9a04b0019eda958?width=1200&format=jpeg",
+    "publishedAt": "2023-01-23T17:05:25Z",
+    "content": "This as-told-to essay is based on a conversation with Alisa Cohen, a principal executive coach at Close Cohen Career Consultingfrom Seattle, about coaching employees in Big Tech during layoffs. The f… [+6202 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "sacevedo@insider.com (Sophia Acevedo, CEPF)",
+    "title": "14 best high-interest CDs and savings accounts today: 3-month CDs reach 4.10% APY",
+    "description": "Online financial institutions offer the best high-interest CD rates today. Our list also has savings, high-yield checking, and money market accounts.",
+    "url": "https://www.businessinsider.com/personal-finance/todays-best-high-interest-accounts-january-23-2023-1",
+    "urlToImage": "https://i.insider.com/630ceb372b0eaf001893ba57?width=1200&format=jpeg",
+    "publishedAt": "2023-01-23T17:40:00Z",
+    "content": "Insider's experts choose the best products and services to help make smart decisions with your money (heres how). In some cases, we receive a commission from our partners, however, our opinions are o… [+19318 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Entrepreneur"
+    },
+    "author": "Amanda Breen",
+    "title": "These Are the 2 Key Reasons Apple Has Avoided Mass Layoffs — So Far",
+    "description": "There's really no such thing as a free lunch.",
+    "url": "https://www.entrepreneur.com/business-news/these-are-the-2-reasons-apple-has-avoided-mass-layoffs-so/443475",
+    "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1674486696-GettyImages-1245195924.jpg",
+    "publishedAt": "2023-01-23T15:15:00Z",
+    "content": "From Meta to Microsoft, tech giants have conducted massive layoffs this year with no clear end in sight.\r\nSOPA Images | Getty Images\r\nBut Apple, the world's largest technology company, has managed to… [+1191 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Entrepreneur"
+    },
+    "author": "Madeline Garfinkle",
+    "title": "This Streaming Service Beat Netflix as the No. 1 One Market Leader in the U.S.",
+    "description": "As of Q4 2022, industry pioneer Netflix is not longer at the top.",
+    "url": "https://www.entrepreneur.com/business-news/amazon-prime-barely-beat-netflix-as-top-streamer-for-q4/443472",
+    "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1674485935-GettyImages-1338863489.jpg",
+    "publishedAt": "2023-01-23T15:19:00Z",
+    "content": "The competition between streaming services has heated up over the past few years with the emergence of Disney+, Apple TV, Paramount+, and more.\r\nNow, according to data from JustWatch, industry pionee… [+938 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hipertextual"
+    },
+    "author": "Rubén Chicharro",
+    "title": "Apple podría renovar completamente el iPad Pro el próximo año",
+    "description": "2023 no será el año del iPad. Al menos, así lo sugirió Mark Gurman, de Bloomberg, hace tan solo unas semanas; cuando reveló algunos de los posibles nuevos productos de Apple que podríamos ver durante los próximos meses. El periodista ha vuelto a reiterar en s…",
+    "url": "http://hipertextual.com/2023/01/apple-podria-renovar-completamente-el-ipad-pro-el-proximo-ano",
+    "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2021/06/iPad-Pro-03977-scaled.jpg",
+    "publishedAt": "2023-01-23T11:14:56Z",
+    "content": "2023 no será el año del iPad. Al menos, así lo sugirió Mark Gurman, de Bloomberg, hace tan solo unas semanas; cuando reveló algunos de los posibles nuevos productos de Apple que podríamos ver durante… [+2445 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hipertextual"
+    },
+    "author": "Eduardo Arcos",
+    "title": "MacBook Pro M2 Pro/ M2 Max, análisis: una máquina de ensueño",
+    "description": "Escribo estas líneas en el nuevo MacBook Pro con procesador M2 Max de 14 pulgadas mientras estoy sentado en una cafetería. Absolutamente nadie tiene la menor idea que se trata de un producto de Apple que aún no se ha puesto a la venta, y eso es porque su exte…",
+    "url": "http://hipertextual.com/2023/01/macbook-pro-m2-pro-max-analisis",
+    "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/01/MacBook-Pro-1-scaled.jpg?fit=2560%2C1600&quality=60&strip=all&ssl=1",
+    "publishedAt": "2023-01-23T14:00:00Z",
+    "content": "Escribo estas líneas en el nuevo MacBook Pro con procesador M2 Max de 14 pulgadas mientras estoy sentado en una cafetería. Absolutamente nadie tiene la menor idea que se trata de un producto de Apple… [+14169 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hackaday"
+    },
+    "author": "Maya Posch",
+    "title": "Running Cray OS and UNICOS On Your Own Cray Simulator Instance",
+    "description": "The Cray series of super computers have been pretty much symbolic for high-powered computing since the 1970s, and to this day there’s a certain level of mysticism to them. Much of this is als…",
+    "url": "https://hackaday.com/2023/01/23/running-cray-os-and-unicos-on-your-own-cray-simulator-instance/",
+    "urlToImage": "https://hackaday.com/wp-content/uploads/2023/01/cray_sn_302a1-e1674445287159.jpg",
+    "publishedAt": "2023-01-23T09:00:35Z",
+    "content": "The Cray series of super computers have been pretty much symbolic for high-powered computing since the 1970s, and to this day there’s a certain level of mysticism to them. Much of this is also helped… [+1557 chars]"
+    },
+    {
+    "source": {
+    "id": "time",
+    "name": "Time"
+    },
+    "author": "Judy Berman",
+    "title": "Shrinking Is an Affront to Comedy, Psychotherapy, and Harrison Ford",
+    "description": "The practice of setting and enforcing emotional boundaries seems pretty self-evidently healthy. What this deeply irritating new Apple TV+ dramedy proposes is, well, maybe it isn’t.",
+    "url": "https://time.com/6248761/shrinking-review-apple/",
+    "urlToImage": "https://api.time.com/wp-content/uploads/2023/01/Shrinking_Photo_010403.jpg?quality=85&w=1200&h=628&crop=1",
+    "publishedAt": "2023-01-23T14:00:34Z",
+    "content": "In the annals of pop psychology, few concepts are as widely understood and embraced as that of boundaries. We set them in order to move on from codependent relationships, or to stop working 80-hour w… [+7888 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Manu García (Visnuh)",
+    "title": "Los siete mejores chollos de la Semana Web de MediaMarkt: ofertas en portátiles, smart TVs o tabletas que no puedes dejar escapar",
+    "description": "Hoy, en MediaMarkt, estrenan nueva campaña Semana Web y en ella, como siempre, tenemos ofertas más que interesantes. Sobre todo en informática, pero también con algún buen precio en televisores o tablets. Hemos reunido lo más interesante que vas a poder encon…",
+    "url": "https://www.xataka.com/seleccion/siete-mejores-chollos-semana-web-mediamarkt-ofertas-portatiles-smart-tvs-tabletas-que-no-puedes-dejar-escapar",
+    "urlToImage": "https://i.blogs.es/e595d4/mediamarkt/840_560.jpg",
+    "publishedAt": "2023-01-23T10:35:01Z",
+    "content": "Hoy, en MediaMarkt, estrenan nueva campaña Semana Web y en ella, como siempre, tenemos ofertas más que interesantes. Sobre todo en informática, pero también con algún buen precio en televisores o tab… [+5086 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Javier Fernández",
+    "title": "Spotify tampoco es inmune a la ola de despidos en las tecnológicas: prescindirá de 600 trabajadores",
+    "description": "El sector tecnológico está viviendo una verdadera cuesta de enero. El día 5, Amazon anunció la eliminación de 18.000 puestos de trabajo; el día 18, Microsoft comunicó el despido de 10.000 personas y el día 20, Google anunció el despido de 12.000 trabajadores.…",
+    "url": "https://www.xataka.com/empresas-y-economia/spotify-tampoco-inmune-a-ola-despidos-tecnologicas-prescindira-600-trabajadores",
+    "urlToImage": "https://i.blogs.es/0a7cd9/spotify-despidos-1/840_560.jpg",
+    "publishedAt": "2023-01-23T14:53:03Z",
+    "content": "El sector tecnológico está viviendo una verdadera cuesta de enero. El día 5, Amazon anunció la eliminación de 18.000 puestos de trabajo; el día 18, Microsoft comunicó el despido de 10.000 personas y … [+2840 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Juan Carlos López",
+    "title": "España ya sabe cómo reducir su dependencia del uranio ruso (y fortalecerse como fabricante de combustible nuclear)",
+    "description": "Las barras de combustible que utilizan buena parte de las centrales nucleares españolas, y también algunas plantas de otros países, proceden de un pequeño pueblo de Salamanca con menos de 200 habitantes. ENUSA Industrias Avanzadas (el acrónimo ENUSA procede d…",
+    "url": "https://www.xataka.com/energia/espana-sabe-como-reducir-su-dependencia-uranio-ruso-fortalecerse-como-fabricante-combustible-nuclear",
+    "urlToImage": "https://i.blogs.es/8a77b2/centralnuclear-ap/840_560.jpeg",
+    "publishedAt": "2023-01-23T15:00:25Z",
+    "content": "Las barras de combustible que utilizan buena parte de las centrales nucleares españolas, y también algunas plantas de otros países, proceden de un pequeño pueblo de Salamanca con menos de 200 habitan… [+3885 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Artofmanliness.com"
+    },
+    "author": "AoM Team",
+    "title": "Podcast #681: The Epic Exploits of Kit Carson",
+    "description": "Within the space of just three decades, monumental episodes of exploration and expedition, politics and violence, including the mapping of the Oregon Trail, the acquisition of California, and the Mexican-American and Civil wars, forever changed the history of…",
+    "url": "https://www.artofmanliness.com/character/knowledge-of-men/podcast-681-the-epic-exploits-of-kit-carson/",
+    "urlToImage": "https://content.artofmanliness.com/uploads/2021/02/carson2.jpg",
+    "publishedAt": "2023-01-23T15:40:08Z",
+    "content": "Within the space of just three decades, monumental episodes of exploration and expedition, politics and violence, including the mapping of the Oregon Trail, the acquisition of California, and the Mex… [+38196 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The New Yorker"
+    },
+    "author": "Dan Greene",
+    "title": "Why Your Favorite Restaurant Stinks",
+    "description": "The influencers behind the VIP List, a social-media foodie account that satirizes social-media foodie tropes, put the two-Michelin-star Daniel to the test.",
+    "url": "https://www.newyorker.com/magazine/2023/01/30/why-your-favorite-restaurant-stinks",
+    "urlToImage": "https://media.newyorker.com/photos/63cb27b87fe53bdf04587561/16:9/w_1280,c_limit/230130_r41796illuweb-site.jpg",
+    "publishedAt": "2023-01-23T11:00:00Z",
+    "content": "A. J. Liebling once wrote that the primary requisite for writing well about food is a good appetite. Thats a nice first step for TikTok-ing about it, too, but if you want followers it helps to offer … [+4623 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Alex Blake",
+    "title": "Apple’s secret spring event could be in yet more trouble",
+    "description": "Apple is expected to release a ton of new products this spring, but its launch event might have been pushed back, meaning disappointment for loyal Apple fans.",
+    "url": "https://www.digitaltrends.com/computing/apple-spring-event-2023-delayed/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2021/09/tim-cook-apple-ceo-2021-fall-event.jpg?resize=1200%2C630&p=1",
+    "publishedAt": "2023-01-23T12:20:39Z",
+    "content": "Waiting for new Apple products to launch, perhaps at the companys rumored spring event? Well, the whole thing might have been delayed and thrown into uncertainty, according to a new report from Bloom… [+2735 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Jacob Roach",
+    "title": "Is Apple’s Mac Mini M2 any good? Here’s what reviews say",
+    "description": "Apple's hotly-anticipated Mac Mini M2 launches in a matter of hours, but how does it hold up? The first batch of reviews is finally in.",
+    "url": "https://www.digitaltrends.com/computing/apple-mac-mini-m2-review-roundup/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/01/apple-m2-mac-mini-video-editing.jpg?resize=1200%2C630&p=1",
+    "publishedAt": "2023-01-23T16:16:22Z",
+    "content": "Apple’s Mac Mini M2 looks like a welcome upgrade to the aging M1 model, but is it any good? After Apple’s disappointing debut of the M2 chip, this update to the Mac Mini seemed doomed for failure. Bu… [+3187 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Trevor Mogg",
+    "title": "Elon Musk says Twitter will launch pricier Blue tier free of ads",
+    "description": "Twitter chief Elon Musk has said that the platform is planning to offer a higher-priced Blue subscription that be free of ads.",
+    "url": "https://www.digitaltrends.com/social-media/elon-musk-says-twitter-will-launch-pricier-blue-tier-free-of-ads/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/05/elon-musk-twitter-gradient-map.jpg?resize=1200%2C630&p=1",
+    "publishedAt": "2023-01-23T01:30:24Z",
+    "content": "Elon Musk said on Sunday that Twitter is planning to offer a higher-priced Blue subscription that will have zero ads.\r\nMusk, who acquired Twitter in October 2022 in a deal worth $44 billion, didnt sa… [+1740 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "t-online.de"
+    },
+    "author": null,
+    "title": "Hewlett Packard HP-15C Simulator",
+    "description": "Comments",
+    "url": "https://hp-15c.homepage.t-online.de/homepage.htm",
+    "urlToImage": null,
+    "publishedAt": "2023-01-23T03:05:41Z",
+    "content": "The HEWLETT·PACKARD 15C Simulator is copyright © 1997-2022 Torsten Manz\r\nHP and the HP logo are trademarks of Hewlett-Packard. Microsoft, Windows and Internet Explorer are trademarks\r\n of Microsoft C… [+1164 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Anke Brandt",
+    "title": "heise+ | Whiteboard-App: Apple Freeform im Test",
+    "description": "Auf Apples neuem Whiteboard toben sich Nutzer kreativ aus, allein oder im Team. Wir testen, was es kann und ob es sich von der Konkurrenz abhebt.",
+    "url": "https://www.heise.de/tests/Whiteboard-App-Apple-Freeform-im-Test-7463985.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/8/2/1/0/3/img_0034-6607ad03e6ddb674.jpg",
+    "publishedAt": "2023-01-23T14:00:00Z",
+    "content": "Auf Apples neuem Whiteboard toben sich Nutzer kreativ aus, allein oder im Team. Wir testen, was es kann und ob es sich von der Konkurrenz abhebt."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Mark Mantel",
+    "title": "Qualcomms Apple-M3-Konkurrent soll ein 12-Kern-Prozessor werden",
+    "description": "Der Snapdragon 8cx Gen 4 nutzt erstmals CPU-Kerne der Firma Nuvia. Er soll mit Apples M3-Generation, AMDs Ryzen 7040 und Intels Meteor Lake konkurrieren.",
+    "url": "https://www.heise.de/news/Qualcomms-Apple-M3-Konkurrent-soll-ein-12-Kern-Prozessor-werden-7467919.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/8/4/2/2/3/231358710_1bb510d464-40b4e5fe0ad85039.jpeg",
+    "publishedAt": "2023-01-23T11:01:00Z",
+    "content": "Inhaltsverzeichnis\r\nMit insgesamt 12 CPU-Kernen und modernen Features wie USB4 soll sich Qualcomms nächster Notebook-Prozessor Snapdragon 8cx Gen 4 offenbar mit den CPUs von AMD, Apple und Nvidia anl… [+3329 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Ben Schwan",
+    "title": "HomePod und verbesserter iCloud-Datenschutz: Apple gibt Tipps für Steckenbleiber",
+    "description": "Aufgrund von Inkompatibilitäten kann ein neuer HomePod an Apples Advanced Data Protection scheitern. Nun gibt das Unternehmen Tipps, wie man das verhindert.",
+    "url": "https://www.heise.de/news/HomePod-und-verbesserter-iCloud-Datenschutz-Apple-gibt-Tipps-fuer-Steckenbleiber-7467239.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/8/3/8/5/3/homepodadp-3a3f19864d82dbc6.jpg",
+    "publishedAt": "2023-01-23T08:36:00Z",
+    "content": "Apple hat sich erstmals zu einem Problem geäußert, das entsteht, wenn man versucht, einen HomePod mit veralteter Firmware zu aktualisieren, während der brandneue erweiterte Datenschutz für iCloud akt… [+2510 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Ben Schwan",
+    "title": "iPhone 15 Pro angeblich mit geschrumpftem Bildschirmrand",
+    "description": "Frischen Gerüchten aus Asien zufolge will Apple die Pro-Modelle in diesem Jahr nochmals deutlich stärker absetzen – auch optisch.",
+    "url": "https://www.heise.de/news/iPhone-15-Pro-angeblich-mit-geschrumpftem-Bildschirmrand-7467231.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/8/3/8/4/9/iPhone14Aufmacher16zu9-7bc1ef6b5f285577.jpg",
+    "publishedAt": "2023-01-23T09:11:00Z",
+    "content": "Die aktuelle iPhone-Generation ist unterschiedlicher als je zuvor: Während iPhone 14 und 14 Plus mit altem A15-SoC aus dem Jahr 2021 kommen und die übliche Face-ID-Einkerbung zeigen, laufen iPhone 14… [+2496 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Ben Schwan",
+    "title": "Apple 2023: Kein neuer HomePod mini – und ein lahmes iPad-Jahr",
+    "description": "Einem Bericht zufolge müssen Nutzer auf eine zweite Generation des kleinen Siri-Speakers noch länger warten. Beim iPad wird's 2023 auch nicht sehr spannend.",
+    "url": "https://www.heise.de/news/Apple-2023-Kein-neuer-HomePod-mini-und-ein-lahmes-iPad-Jahr-7467763.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/8/4/1/3/8/miniipad-0940072378b80a37.jpg",
+    "publishedAt": "2023-01-23T10:13:00Z",
+    "content": "Wer sich Hoffnung auf einen neuen HomePod mini der zweiten Generation oder neue, spannende iPads im Jahr 2023 machte, wird womöglich enttäuscht. Davon geht zumindest der bekannte Bloomberg-Journalist… [+2430 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Leo Becker",
+    "title": "heise-Angebot: Webinar: Apples neue Schnittstellen in der Praxis",
+    "description": "Am 26. Januar können Entwickler und Product Owner in einem Webinar Apples neuen APIs und Dev-Tools für iOS, iPadOS, macOS, watchOS und tvOS kennenlernen.",
+    "url": "https://www.heise.de/news/Webinar-Apples-neue-Schnittstellen-in-der-Praxis-7468060.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/8/4/3/0/1/Neue-APIs-Ticker-Header-16-9-f48a5c12e15c47fb.jpg",
+    "publishedAt": "2023-01-23T15:15:00Z",
+    "content": "Alljährlich führt Apple eine lange Liste an API-Neuerungen und -Änderungen in den hauseigenen Betriebssystemen ein, die Entwicklern neue Möglichkeiten für spannende Funktionen in Apps erschließen. Ne… [+1624 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Apple layoffs have been avoided for three reasons, as other tech giants let staff go",
+    "description": "While other tech giants like Amazon, Google, and Meta have been downsizing their workforce, there’s so far been no sign of Apple layoffs. A new report today suggests there may be three reasons for this.\nFirst, it argues, Apple has been more cautious than othe…",
+    "url": "https://9to5mac.com/2023/01/23/apple-layoffs-avoided/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/01/Apple-layoffs-have-been-avoided.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-01-23T12:12:26Z",
+    "content": "While other tech giants like Amazon, Google, and Meta have been downsizing their workforce, there’s so far been no sign of Apple layoffs. A new report today suggests there may be three reasons for th… [+2643 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "iOS 16.3 for iPhone now available to everyone: Here’s what’s new",
+    "description": "After a month of beta testing, Apple is releasing iOS 16.3 to iPhone users everywhere today. This update includes a new way to secure your Apple ID, changes to Emergency SOS, and more. There’s also a brand new wallpaper that Apple has designed in honor of Bla…",
+    "url": "https://9to5mac.com/2023/01/23/ios-16-3-for-iphone-now-available-to-everyone-heres-whats-new/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/01/ios-16-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-01-23T18:09:54Z",
+    "content": "After a month of beta testing, Apple is releasing iOS 16.3 to iPhone users everywhere today. This update includes a new way to secure your Apple ID, changes to Emergency SOS, and more. There’s also a… [+2480 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Michael Potuck",
+    "title": "Apple releases macOS 13.2 with support for Security Keys, bug fixes, and more",
+    "description": "Apple has officially released macOS 13.2 alongside iOS 16.3 today. The main new feature arriving with the latest software is support for Security Keys with Apple ID. macOS 13.2 is starting to roll out now, head to System Settings > General > Software Update t…",
+    "url": "https://9to5mac.com/2023/01/23/apple-releases-macos-13-2-security-key-support/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/01/macOS-ventura-hero-02.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-01-23T18:08:00Z",
+    "content": "Apple has officially released macOS 13.2 alongside iOS 16.3 today. The main new feature arriving with the latest software is support for Security Keys with Apple ID.\r\nmacOS 13.2 is starting to roll o… [+1067 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Big banks learned nothing from CurrentC, as they plan new competition for Apple Pay",
+    "description": "Seven big banks are creating a mobile wallet app, designed to compete with Apple Pay, according to a new report today.\nBank of America, JPMorgan Chase, and Wells Fargo are three of the banks named, with two motivations suggested for the initiative … \n more…\nT…",
+    "url": "https://9to5mac.com/2023/01/23/big-banks/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/01/Big-banks-learned-nothing.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-01-23T15:05:50Z",
+    "content": "Seven big banks are creating a mobile wallet app, designed to compete with Apple Pay, according to a new report today.\r\nBank of America, JPMorgan Chase, and Wells Fargo are three of the banks named, … [+2641 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "AirPods Max orders delayed 2-3 weeks, will Apple release new colors?",
+    "description": "Apple’s popular over-ear AirPods Max headphones are facing supply constraints. According to estimates listed on Apple’s website, AirPods Max orders are currently back ordered until mid-February. The shortages appear to affect all five AirPods Max color varian…",
+    "url": "https://9to5mac.com/2023/01/23/airpods-max-shipping-delays-from-apple/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/12/AirPods-Max-black.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-01-23T15:44:59Z",
+    "content": "Apples popular over-ear AirPods Max headphones are facing supply constraints. According to estimates listed on Apples website, AirPods Max orders are currently back ordered until mid-February. The sh… [+1836 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Apple antitrust appeal comes down to the legal meaning of the word “shall”",
+    "description": "An Apple antitrust appeal filed in the UK is likely to be decided on how a court interprets the meaning of a single word. Even more crazily, this is the second time that a single word has had a major impact on potential action against the Cupertino company on…",
+    "url": "https://9to5mac.com/2023/01/23/apple-antitrust-appeal/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/01/Apple-antitrust-appeal.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-01-23T13:05:51Z",
+    "content": "An Apple antitrust appeal filed in the UK is likely to be decided on how a court interprets the meaning of a single word. Even more crazily, this is the second time that a single word has had a major… [+3731 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Seth Kurkowski",
+    "title": "9to5Mac Daily: January 23, 2023 – iPad Pro rumors, iPhone 15 design changes",
+    "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nEnjoy the podcast? Shop to su…",
+    "url": "https://9to5mac.com/2023/01/23/9to5mac-daily-january-23-2023/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-01-23T17:55:52Z",
+    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apples Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overca… [+864 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Michael Potuck",
+    "title": "M2 Max surprisingly holds its own against M1 Ultra in ProRes video export test",
+    "description": "When it launched the M2 Max MacBook Pro, Apple shared that it features even more powerful dedicated media engines for processing video footage. Now a review from Brian Tong reveals exactly how much faster the M2 Max is at processing ProRes compared to the M1 …",
+    "url": "https://9to5mac.com/2023/01/23/m2-max-vs-m1-ultra-prores-video-export/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/01/macbook-pro-2023-02.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-01-23T17:54:34Z",
+    "content": "When it launched the M2 Max MacBook Pro, Apple shared that it features even more powerful dedicated media engines for processing video footage. Now a review from Brian Tong reveals exactly how much f… [+1111 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "M2 Mac mini reviews: ‘Mac studio junior’ with impressive performance, versatile prices",
+    "description": "The first reviews of Apple’s newest Mac mini have officially been published, ahead of orders arriving to customers starting tomorrow. The reviews offer our first look at the performance of the Mac mini with M2 and M2 Pro chips inside, detailing how that perfo…",
+    "url": "https://9to5mac.com/2023/01/23/m2-mac-mini-reviews-performance-more/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/01/mac-mini-reveiw.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-01-23T14:26:37Z",
+    "content": "The first reviews of Apples newest Mac mini have officially been published, ahead of orders arriving to customers starting tomorrow. The reviews offer our first look at the performance of the Mac min… [+4010 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Rikka Altland",
+    "title": "M2 Mac mini sees first discounts from $499 in Monday’s best deals, $100 off M2 iPad Pro, more",
+    "description": "All of Monday’s best discounts are putting the latest in Apple silicon in the spotlight. The new M2 Mac mini hasn’t even begun delivering yet, and you can already lock-in the first price cuts from $499. Then go save $100 on Apple’s 12.9-inch M2 iPad Pro to jo…",
+    "url": "https://9to5mac.com/2023/01/23/m2-mac-mini-m2-ipad-pro-more/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/01/m2-ipad-pro-m2-mac-mini.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-01-23T16:51:49Z",
+    "content": "All of Monday’s best discounts are putting the latest in Apple silicon in the spotlight. The new M2 Mac mini hasn’t even begun delivering yet, and you can already lock-in the first price cuts from $4… [+4830 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "Porsche expands CarPlay to more classic cars with new retrofit head units",
+    "description": "Porsche is a strong supporter of , particularly in regards to helping owners retrofit CarPlay in classic Porsche cars. As part of those efforts, Porsche has expanded support for retrofitted Bluetooth and CarPlay infotainment systems to early-2000s cars…\n more…",
+    "url": "https://9to5mac.com/2023/01/23/carplay-porsche-head-unit/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/01/porsche-carplay-retrofit.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-01-23T17:40:41Z",
+    "content": "Porsche is a strong supporter of Apples CarPlay platform, particularly in regards to helping owners retrofit CarPlay in classic Porsche cars. As part of those efforts, Porsche has expanded support fo… [+2266 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "M2 MacBook Pro reviews: A beast of a machine, but overkill for almost everyone",
+    "description": "Alongside those for the new Mac mini, the first M2 MacBook Pro reviews are out. Everyone agrees it’s a beast of a machine, but many wonder whether it’s just too much Mac for even its target audience.\nAlongside a surprising number of reviewers bemoaning the la…",
+    "url": "https://9to5mac.com/2023/01/23/m2-macbook-pro-reviews-2/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/01/M2-MacBook-Pro-reviews.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-01-23T14:35:45Z",
+    "content": "Alongside those for the new Mac mini, the first M2 MacBook Pro reviews are out. Everyone agrees it’s a beast of a machine, but many wonder whether it’s just too much Mac for even its target audience.… [+7378 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Police"
+    },
+    "author": "Jon Gilbert",
+    "title": "The creators of Octopath Traveler just released a new RPG on Android",
+    "description": "Various Daylife makes its way from Apple Arcade to Android as a premium release",
+    "url": "https://www.androidpolice.com/creators-octopath-traveler-release-new-rpg/",
+    "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/01/various-daylife-hero.jpg",
+    "publishedAt": "2023-01-23T13:55:45Z",
+    "content": "Various Daylife, an original RPG from Square Enix, was released as an Apple Arcade exclusive in September 2019. It was pulled from the service two years later but was immediately re-released on Ninte… [+1911 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Amber Neely)",
+    "title": "Apple issues watchOS 9.3 update for Apple Watch",
+    "description": "The public release of watchOS 9.3 includes bug fixes and under-the-hood improvements for the Apple Watch — and it's now available to everybody.watchOS 9Apple Watch users can update watchOS by opening the iOS Watch app, selecting General, then Software Update,…",
+    "url": "https://appleinsider.com/articles/23/01/23/apple-issues-watchos-93-update-for-apple-watch",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/48715-95190-watchOS-9-Header-xl.jpg",
+    "publishedAt": "2023-01-23T18:20:56Z",
+    "content": "watchOS 9\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nThe public release of watchOS 9.3 includes bug fixes and under-the-hood improvements for the App… [+697 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "Apple Watch 9 will be skipped for Apple Watch X, says sketchy rumor",
+    "description": "A rumor based on very flimsy supply chain info goes out on a limb to say that Apple is going to produce an \"Apple Watch X\" for 2024, as radical a change as the iPhone X was.The original Apple Watch was announced in September 2014, although it didn't ship unti…",
+    "url": "https://appleinsider.com/articles/23/01/23/apple-watch-9-will-be-skipped-for-apple-watch-x-says-sketchy-rumor",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52610-105106-000-lead-Apple-Watch-xl.jpg",
+    "publishedAt": "2023-01-23T14:00:32Z",
+    "content": "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nA rumor based on very flimsy supply chain info goes out on a limb to say that Apple is going to produce an … [+1317 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "Apple shooting for 25% production in India, says trade minister",
+    "description": "India's trade minister claims that Apple is intending to raise its local manufacturing to 25% from its current 5% to 7%, although he did not give any timescale.Mumbai, IndiaShri Piyush Goyal, India's minister of commerce and industry, also did not specify wha…",
+    "url": "https://appleinsider.com/articles/23/01/23/apple-shooting-for-25-production-in-india-says-trade-minister",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/50489-99331-18914-18533-india-mumbai-xl-xl.jpg",
+    "publishedAt": "2023-01-23T11:38:03Z",
+    "content": "Mumbai, India\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nIndia's trade minister claims that Apple is intending to raise its local manufacturing to 25… [+1017 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Andrew Orr)",
+    "title": "Apple's iPadOS 16.3 is out with support for security keys",
+    "description": "Apple has released iPadOS 16.3 to the public with support for physical security keys that can add another layer of protection for Apple ID.iPadOS 16.3 is out nowThe iPadOS 16.3 update is is available to download by the public. It is a relatively minor release…",
+    "url": "https://appleinsider.com/articles/23/01/23/apples-ipados-163-is-out-with-support-for-security-keys",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52528-105124-iPad-on-table-xl.jpg",
+    "publishedAt": "2023-01-23T18:25:03Z",
+    "content": "iPadOS 16.3 is out now\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nApple has released iPadOS 16.3 to the public with support for physical security key… [+942 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "Banks teaming up to fight Apple Wallet & PayPal",
+    "description": "Seven major banks are working with money-transfer service Zelle to create a separate digital wallet system to compete with Apple Wallet.According to the Wall Street Journal, banks including Wells Fargo, JP Morgan Chase, and Bank of America are planning a new …",
+    "url": "https://appleinsider.com/articles/23/01/23/banks-teaming-up-to-fight-apple-wallet-paypal",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52607-105101-000-lead-Banks-xl.jpg",
+    "publishedAt": "2023-01-23T12:36:28Z",
+    "content": "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nSeven major banks are working with money-transfer service Zelle to create a separate digital wallet system … [+1814 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "Apple releases macOS Ventura 13.2 with security key support",
+    "description": "The new macOS Ventura 13.2 is now rolling out to users, with improved security features including rapid response updates.Following the usual multiple beta test releases, macOS 13.2 is now available, and will come pre-installed on all new Macs.This release is …",
+    "url": "https://appleinsider.com/articles/23/01/23/apple-releases-macos-ventura-132-with-security-key-support",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52531-104907-000-lead-macOS-Ventura-xl.jpg",
+    "publishedAt": "2023-01-23T18:12:41Z",
+    "content": "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nThe new macOS Ventura 13.2 is now rolling out to users, with improved security features including rapid res… [+1046 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Nathaniel Pangaro)",
+    "title": "How to add student ID to Wallet in iOS 16",
+    "description": "In participating colleges and universities, students can add IDs to the Wallet app on iPhone and Apple Watch. Here's how to do it.\"You're going to have the ability to add your student ID card to Wallet on your iPhone and Apple Watch,\" said Kevin Lynch, vice p…",
+    "url": "https://appleinsider.com/inside/ios-16/tips/how-to-add-student-id-to-wallet-in-ios-16",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52603-105093-IMG_2623-xl.jpg",
+    "publishedAt": "2023-01-23T11:28:11Z",
+    "content": "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nIn participating colleges and universities, students can add IDs to the Wallet app on iPhone and Apple Watc… [+3529 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Michael Stroup)",
+    "title": "Save up to $500 on MacBooks, iPads, Apple TV 4K at Amazon this week",
+    "description": "This week's best Amazon deals are all about MacBooks, with discounts knocking up to 20% off retail prices on M1 Pro and M1 Max MacBook Pros.MacBooks and iPhones on sale this week at Amazon. With Apple introducing the M2 MacBook Pro lineup last week, that mean…",
+    "url": "https://appleinsider.com/articles/23/01/23/save-up-to-500-on-macbooks-ipads-apple-tv-4k-at-amazon-this-week",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52614-105114-Untitled-design-27-xl.jpg",
+    "publishedAt": "2023-01-23T18:09:54Z",
+    "content": "MacBooks and iPhones on sale this week at Amazon. \r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nThis week's best Amazon deals are all about MacBooks, w… [+1608 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Malcolm Owen)",
+    "title": "Apple Original film 'Still: A Michael J. Fox Movie' premieres at Sundance",
+    "description": "The premiere of the Apple Original Films feature \"Still: A Michael J. Fox Movie\" took place on Friday at the Sundance Film Festival, with Fox speaking in a Q&A about the film afterward.Director and producer Davis Guggenheim and Michael J. Fox at the \"Still\" S…",
+    "url": "https://appleinsider.com/articles/23/01/23/apple-original-film-still-a-michael-j-fox-movie-premieres-at-sundance",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52606-105102-sundance-still-xl.jpg",
+    "publishedAt": "2023-01-23T12:40:46Z",
+    "content": "Director and producer Davis Guggenheim and Michael J. Fox at the \"Still\" Sundance premiere\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nThe premiere of… [+1294 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Malcolm Owen)",
+    "title": "What to expect from Apple's 2022 holiday quarter earnings report",
+    "description": "Apple will be announcing its 2023 fiscal first quarter results on February 2. Here's what to expect from the holiday quarter earnings — and what Wall Street is predicting.Apple CEO Tim Cook (left) with CFO Luca MaestriApple revealed on January 4 that it will …",
+    "url": "https://appleinsider.com/articles/23/01/23/what-to-expect-from-apples-2022-holiday-quarter-earnings-report",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52602-105100-46657-90964-41127-79590-000-lead-Tim-Cook-earnings-xl-xl-xl.jpg",
+    "publishedAt": "2023-01-23T13:43:39Z",
+    "content": "Apple CEO Tim Cook (left) with CFO Luca Maestri\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nApple will be announcing its 2023 fiscal first quarter res… [+6517 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "Tim Cook held all his Apple stock in 2022, as other execs sold",
+    "description": "A number of Apple executives sold more of their stocks in the company in 2022 than the year before, but Tim Cook didn't sell any.Recently, Cook notably asked for his overall salary to effectively have a 40% cut. Now it's been revealed that he also hasn't sold…",
+    "url": "https://appleinsider.com/articles/23/01/23/tim-cook-held-all-his-apple-stock-in-2022-as-other-execs-sold",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52608-105103-000-lead-Tim-Cook-xl.jpg",
+    "publishedAt": "2023-01-23T13:10:10Z",
+    "content": "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nA number of Apple executives sold more of their stocks in the company in 2022 than the year before, but Tim… [+1300 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Jess Pingrey)",
+    "title": "Daily Deals Jan 23: AirPods Pro 2 for $199, 40% off a wireless Apple Watch Charger, 28% off a Hisense 50-inch Smart TV & more",
+    "description": "Some of today's top discounts include $100 off an M2 Macbook Air, 61% off a Lenovo 2022 Ideapad 3 Laptop, $150 off a Bose Smart Soundbar 600, 80% off AUKEY Bluetooth Earbuds, and 34% off a Samsung 55-Inch Class OLED Smart 4K TV.Save $100 on a 13.6\" MacBook Ai…",
+    "url": "https://appleinsider.com/articles/23/01/23/daily-deals-jan-23-airpods-pro-2-for-199-40-off-a-wireless-apple-watch-charger-28-off-a-hisense-50-inch-smart-tv-more",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52601-105091-daily-deals-Jan-23-xl.jpg",
+    "publishedAt": "2023-01-23T14:34:33Z",
+    "content": "Save $100 on a 13.6\" MacBook Air\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nSome of today's top discounts include $100 off an M2 Macbook Air, 61% off… [+2114 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Andrew O'Hara)",
+    "title": "New HomePod and HomePod mini features set to arrive",
+    "description": "On the latest Homekit Insider podcast episode, we cover the release of the updated HomePod and discuss new features coming to the HomePod mini.HomeKit InsiderApple's surprised users with the launch of the second-generation HomePod last week but what was even …",
+    "url": "https://appleinsider.com/articles/23/01/23/new-homepod-and-homepod-mini-features-set-to-arrive",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/46889-91403-HKI-Header-xl.jpg",
+    "publishedAt": "2023-01-23T14:58:47Z",
+    "content": "HomeKit Insider\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nOn the latest Homekit Insider podcast episode, we cover the release of the updated HomePod… [+1240 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Wesley Hilliard)",
+    "title": "iOS 16.3 now available with support for new HomePod, security keys",
+    "description": "Apple has released iOS 16.3, bringing support for the newly-announced HomePod and physical security keys used for two-factor authentication.iOS 16.3 is now availableFollowing a beta period that started on December 14, the update for iOS 16.3 is now downloadab…",
+    "url": "https://appleinsider.com/articles/23/01/23/ios-163-now-available-with-support-for-new-homepod-security-keys",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52541-104964-iOS-16-iPhone-xl.jpg",
+    "publishedAt": "2023-01-23T18:12:19Z",
+    "content": "iOS 16.3 is now available\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nApple has released iOS 16.3, bringing support for the newly-announced HomePod an… [+1260 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Wesley Hilliard)",
+    "title": "M2 Mac mini review roundup: Tiny, but mighty",
+    "description": "Initial reviews of the new Mac mini with M2 and M2 Pro are in, and it offers great power on a budget.The updated Mac mini has an M2 or M2 Pro processorApple announced the Mac mini with minimal changes beyond new chipsets on January 17. M2 Pro models also get …",
+    "url": "https://appleinsider.com/articles/23/01/23/m2-mac-mini-review-roundup-tiny-but-mighty",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52609-105105-M1-Mac-mini-xl.jpg",
+    "publishedAt": "2023-01-23T14:36:59Z",
+    "content": "The updated Mac mini has an M2 or M2 Pro processor\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nInitial reviews of the new Mac mini with M2 and M2 Pro … [+3245 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Malcolm Owen)",
+    "title": "M2 Pro & Max MacBook Pro review roundup: Impressive spec bump",
+    "description": "The first wave of reviews for Apple's M2 Pro and M2 Max updates to the 14-inch MacBook Pro and 16-inch MacBook Pro have been published, with the increased performance one of many high points for the releases.16-inch MacBook ProThe upgrades to the 14-inch MacB…",
+    "url": "https://appleinsider.com/articles/23/01/23/m2-pro-max-macbook-pro-review-roundup-impressive-spec-bump",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52612-105107-51485-101907-2019-16MBP-xl-xl.jpg",
+    "publishedAt": "2023-01-23T14:28:08Z",
+    "content": "16-inch MacBook Pro\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nThe first wave of reviews for Apple's M2 Pro and M2 Max updates to the 14-inch MacBook… [+2974 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Wesley Hilliard)",
+    "title": "AirPods Max back-ordered, but don't expect new model",
+    "description": "Customers trying to order AirPods Max won't get them for two to three weeks, but that doesn't mean updated models are coming soon.AirPods Max are Apple's premium over-the-ear headphonesIt may be tempting to look at shipment times for an indication of Apple's …",
+    "url": "https://appleinsider.com/articles/23/01/23/airpods-max-back-ordered-but-dont-expect-new-model",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52615-105113-AirPods-Max-1-xl.jpg",
+    "publishedAt": "2023-01-23T16:50:39Z",
+    "content": "AirPods Max are Apple's premium over-the-ear headphones\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nCustomers trying to order AirPods Max won't get th… [+1795 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "Spotify lays off 6% of workforce, loses content chief",
+    "description": "Leading music streamer Spotify is cutting 600 staff in a \"difficult but necessary\" move to reduce costs, and in a restructure is losing Dawn Ostroff, head of content and advertising.Following layoffs at Google, Microsoft, Amazon and most recently Apple retail…",
+    "url": "https://appleinsider.com/articles/23/01/23/spotify-lays-off-6-of-workforce-loses-content-chief",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52613-105111-000-lead-Spotify-xl.jpg",
+    "publishedAt": "2023-01-23T15:43:59Z",
+    "content": "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nLeading music streamer Spotify is cutting 600 staff in a \"difficult but necessary\" move to reduce costs, an… [+1730 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Christine McKee)",
+    "title": "Deals: Apple's M2 Pro Mac mini with 16GB RAM drops to $1,199",
+    "description": "Apple's M2 Pro Mac mini features a 10-core CPU, 16-core GPU, 16GB of memory and a 512GB SSD — and best of all it's on sale with this exclusive discount.Save $100 on the M2 Pro Mac mini.Best M2 Pro Mac mini price available Read more...",
+    "url": "https://appleinsider.com/articles/23/01/23/deals-apples-m2-pro-mac-mini-with-16gb-ram-drops-to-1199",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52604-105099-m2-pro-mac-mini-discount-xl.jpg",
+    "publishedAt": "2023-01-23T15:26:56Z",
+    "content": "Save $100 on the M2 Pro Mac mini.\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nApple's M2 Pro Mac mini features a 10-core CPU, 16-core GPU, 16GB of mem… [+1673 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Elespanol.com"
+    },
+    "author": null,
+    "title": "Android Auto inalámbrico en cualquier coche compatible: analizamos el Ottocast A2Air",
+    "description": "Hemos analizado el Ottocast A2Air, un aparato que permite convertir Android Auto con cable en su versión inalámbrica.",
+    "url": "https://www.elespanol.com/elandroidelibre/moviles-android/analisis/20230123/android-auto-inalambrico-compatible-analizamos-ottocast-a2air/733926635_0.html",
+    "urlToImage": "https://s1.eestatic.com/2023/01/15/elandroidelibre/moviles-android/analisis/733936684_230335549_600x315.jpg",
+    "publishedAt": "2023-01-23T09:32:36Z",
+    "content": "Android Auto se ha convertido en una de las características más buscadas por los compradores de coches junto a Apple CarPlay. Y es lógico, permite usar muchas apps de nuestro móvil en el coche, hacie… [+3643 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Erin Carson",
+    "title": "The Best Movies on Apple TV Plus - CNET",
+    "description": "Apple TV Plus has an assortment of options, from dramas to music documentaries and animated movies.",
+    "url": "https://www.cnet.com/culture/entertainment/the-best-movies-you-can-catch-on-apple-tv-plus-this-week-now/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/e2dc66f6638d3ea359ba8dc09024f4a3d29cbaea/hub/2021/08/18/0fa9c955-9efe-4cc0-8bad-ec5dbfd287b6/coda-handsign-social-2-to-1-ratio.jpg?auto=webp&fit=crop&height=630&width=1200",
+    "publishedAt": "2023-01-23T15:59:01Z",
+    "content": "Apple TV Plus doesn't have a movie library as deep as Netflix or other streaming rivals. Still, it's got A-listers like Tom Hanks, Denzel Washington and Bill Murray on board -- and even collected Osc… [+6798 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Sarah Lord",
+    "title": "Apple Pay May See Rival as Big Banks Work on Digital Wallet, Report Says - CNET",
+    "description": "The wallet will be built by Early Warning Services, the bank-owned company that created the money transfer app Zelle, The Wall Street Journal reports.",
+    "url": "https://www.cnet.com/personal-finance/apple-pay-may-see-rival-as-big-banks-work-on-digital-wallet/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/03039638068cb3e0323bb2fe330e66dc0c273207/hub/2022/05/03/f91dfb40-6873-43e6-a857-1615c969554f/zelle-logo-2022.jpg?auto=webp&fit=crop&height=630&width=1200",
+    "publishedAt": "2023-01-23T15:47:00Z",
+    "content": "Apple Pay, PayPal and other digital wallets are about to get more competition. Big banks such as JPMorgan Chase, Wells Fargo, Bank of America and others are working together to build their own digita… [+1396 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yanko Design"
+    },
+    "author": "Ida Torres",
+    "title": "Adonit Star iPad stylus looks like your traditional fountain pen to give you an analog feel",
+    "description": "Adonit Star iPad stylus looks like your traditional fountain pen to give you an analog feelI have to admit that I don’t have the best handwriting. But one of the things I’ve recently discovered is that I apparently have better...",
+    "url": "https://www.yankodesign.com/2023/01/22/adonit-star-ipad-stylus-looks-like-your-traditional-fountain-pen-to-give-you-an-analog-feel/",
+    "urlToImage": "https://www.yankodesign.com/images/design_news/2023/01/adonit-star-ipad-stylus-looks-like-your-traditional-fountain-pen/1.jpg",
+    "publishedAt": "2023-01-23T00:30:40Z",
+    "content": "I have to admit that I don’t have the best handwriting. But one of the things I’ve recently discovered is that I apparently have better handwriting when I use a fountain pen and so I am trying to sta… [+1687 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "Tristan",
+    "title": "Apple : le HomePod mini dans les projets de la marque ?",
+    "description": "Apple vient de présenter la semaine dernière, une nouvelle version de son HomePod, sans donner d'informations sur le \"mini\". \nApple : le HomePod mini dans les projets de la marque ?",
+    "url": "https://www.journaldugeek.com/2023/01/23/apple-le-homepod-mini-dans-les-projets-de-la-marque/",
+    "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/01/apple-homepod-2.jpg",
+    "publishedAt": "2023-01-23T13:00:54Z",
+    "content": "Apple vient de présenter la semaine dernière, une nouvelle version de son HomePod, sans donner d'informations sur le \"mini\".Le journaliste de Bloomberg Mark Gurman, expert dApple, annonce que la marq… [+2274 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "Olivier",
+    "title": "ChatGPT : attention à ces applications douteuses !",
+    "description": "Le succès de ChatGPT, dont l'utilisation se répand comme une traînée de poudre, attire les développeurs peu scrupuleux. Une application mobile cartonne ainsi sur l'App Store d'Apple en faisant la fortune de son éditeur qui facture un abonnement à prix fort.\nC…",
+    "url": "https://www.journaldugeek.com/2023/01/23/chatgpt-attention-aux-applications-douteuses-qui-vendent-des-abonnements-sans-interet/",
+    "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/01/sans-titre-5-34.jpg",
+    "publishedAt": "2023-01-23T07:30:09Z",
+    "content": "Le succès de ChatGPT, dont l'utilisation se répand comme une traînée de poudre, attire les développeurs peu scrupuleux. Une application mobile cartonne ainsi sur l'App Store d'Apple en faisant la for… [+1738 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Miguel López",
+    "title": "Apple quiere \"nuevas funcionalidades\" en sus pagos españoles, y ya está buscando a un ejecutivo para ello",
+    "description": "Puede que hayamos encontrado un pequeño rayo de esperanza sobre el futuro de los pagos móviles de Apple en España. La compañía lleva unos días buscando a un \"Business Developer Manager\" para que se ponga a trabajar en Madrid, liderando el equipo responsable d…",
+    "url": "https://www.applesfera.com/servicios-apple/apple-quiere-nuevas-funcionalidades-sus-pagos-espanoles-esta-buscando-a-ejecutivo-para-ello",
+    "urlToImage": "https://i.blogs.es/437985/captura-de-pantalla-2023-01-23-a-las-14.48.52/840_560.jpeg",
+    "publishedAt": "2023-01-23T13:52:05Z",
+    "content": "Puede que hayamos encontrado un pequeño rayo de esperanza sobre el futuro de los pagos móviles de Apple en España. La compañía lleva unos días buscando a un \"Business Developer Manager\" para que se p… [+1478 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Jesús Quesada",
+    "title": "Descuento en el iPhone 14 Pro, gran rebaja en el iPad Pro de 12,9\" (2022) y más ofertas Apple en la Semana Web de MediaMarkt",
+    "description": "Vuelve MediaMarkt con una de sus mejores campañas, la Semana Web. Hasta el 01 de febrero a las 09:00 horas se podrán disfrutar de ofertas exclusivas online, entre ellas algunas pertenecientes a dispositivos de Apple como el último iPhone, iPad, auriculares Ai…",
+    "url": "https://www.applesfera.com/seleccion/descuento-iphone-14-pro-gran-rebaja-ipad-pro-12-9-2022-ofertas-apple-semana-web-mediamarkt",
+    "urlToImage": "https://i.blogs.es/adfcd4/mediamarkt-ofertasa/840_560.jpg",
+    "publishedAt": "2023-01-23T17:00:26Z",
+    "content": "Vuelve MediaMarkt con una de sus mejores campañas, la Semana Web. Hasta el 01 de febrero a las 09:00 horas se podrán disfrutar de ofertas exclusivas online, entre ellas algunas pertenecientes a dispo… [+2441 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Miguel López",
+    "title": "Cómo poner WhatsApp en tu Apple Watch para responder a cualquier mensaje desde tu muñeca",
+    "description": "Es irónico: WhatsApp es el servicio de mensajería más utilizado en España, pero al mismo tiempo es el más complicado de configurar e integrar en nuestros dispositivos. Utilizarlo adecuadamente en el iPhone implica saber distinguir entre las copias de segurida…",
+    "url": "https://www.applesfera.com/tutoriales/como-poner-whatsapp-tu-apple-watch-para-responder-a-cualquier-mensaje-tu-muneca",
+    "urlToImage": "https://i.blogs.es/a1dfdf/captura-de-pantalla-2023-01-23-a-las-10.12.03/840_560.jpeg",
+    "publishedAt": "2023-01-23T10:20:16Z",
+    "content": "Es irónico: WhatsApp es el servicio de mensajería más utilizado en España, pero al mismo tiempo es el más complicado de configurar e integrar en nuestros dispositivos. Utilizarlo adecuadamente en el … [+2376 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Miguel López",
+    "title": "Se acabó compartir cuenta de Netflix gratis: estas son las alternativas",
+    "description": "Netflix nos tiene en vilo. La compañía tiene previsto hacer un movimiento polémico más pronto que tarde: cobrar por compartir la cuenta con otras personas exprimiendo el límite de visualizaciones máximo de cada plan de suscripción.\n<!-- BREAK 1 -->\nEs algo a …",
+    "url": "https://www.applesfera.com/servicios-apple/se-acabo-compartir-cuenta-netflix-gratis-estas-alternativas",
+    "urlToImage": "https://i.blogs.es/cba12e/captura-de-pantalla-2023-01-23-a-las-12.42.06/840_560.jpeg",
+    "publishedAt": "2023-01-23T13:00:22Z",
+    "content": "Netflix nos tiene en vilo. La compañía tiene previsto hacer un movimiento polémico más pronto que tarde: cobrar por compartir la cuenta con otras personas exprimiendo el límite de visualizaciones máx… [+3150 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Isra Fdez",
+    "title": "Le he preguntado a ChatGPT sobre el futuro de Apple y la IA se ha montado una película de ciencia ficción",
+    "description": "La Apple de 2023 avanza a toda velocidad. Así que en Applesfera no hemos podido resistirnos: ¿qué le depara a la empresa de Cupertino durante los próximos meses? ¿Veremos un Mac Studio vestido con procesador M2 Ultra? ¿Un MacBook Air delgado como un folio y v…",
+    "url": "https://www.applesfera.com/curiosidades/le-he-preguntado-a-chatgpt-futuro-apple-ia-se-ha-montado-pelicula-ciencia-ficcion",
+    "urlToImage": "https://i.blogs.es/b59e15/robot/840_560.jpeg",
+    "publishedAt": "2023-01-23T16:00:24Z",
+    "content": "La Apple de 2023 avanza a toda velocidad. Así que en Applesfera no hemos podido resistirnos: ¿qué le depara a la empresa de Cupertino durante los próximos meses? ¿Veremos un Mac Studio vestido con pr… [+8788 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "David Bernal Raspall",
+    "title": "Los iPhone 15 Pro rediseñarán sus bordes de nuevo. Tendrán la apariencia de los de un Apple Watch, según los rumores",
+    "description": "Seguimos oyendo rumores de los próximos iPhone. En un momento en el que Apple está cerrando el diseño antes de empezar las pruebas de producción, la oleada de información que tenemos de los nuevos iPhone 15 es más que considerable. En esta ocasión nos llegan …",
+    "url": "https://www.applesfera.com/rumores/iphone-15-pro-redisenaran-sus-bordes-nuevo-tendran-apariencia-apple-watch-rumores",
+    "urlToImage": "https://i.blogs.es/8ea267/hero/840_560.jpeg",
+    "publishedAt": "2023-01-23T08:08:24Z",
+    "content": "Seguimos oyendo rumores de los próximos iPhone. En un momento en el que Apple está cerrando el diseño antes de empezar las pruebas de producción, la oleada de información que tenemos de los nuevos iP… [+2045 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "David Bernal Raspall",
+    "title": "Apple está preparando un gran rediseño para el iPad Pro, según Gurman. La carga inversa no será la única sorpresa",
+    "description": "Estamos ante un año un poco atípico en lo que a lanzamientos de nuevos productos se refiere. Estamos a mediados de enero y ya tenemos con nosotros un nuevo Mac mini M2, dos nuevos MacBook Pro con M2 y un nuevo HomePod de segunda generación. ¿Parece poco? Espe…",
+    "url": "https://www.applesfera.com/rumores/apple-esta-preparando-gran-rediseno-para-ipad-pro-gurman-carga-inversa-no-sera-unica-sorpresa",
+    "urlToImage": "https://i.blogs.es/79f8f6/hero/840_560.jpeg",
+    "publishedAt": "2023-01-23T07:34:26Z",
+    "content": "Estamos ante un año un poco atípico en lo que a lanzamientos de nuevos productos se refiere. Estamos a mediados de enero y ya tenemos con nosotros un nuevo Mac mini M2, dos nuevos MacBook Pro con M2 … [+2288 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Pedro Aznar",
+    "title": "Mac mini M2 Pro (2023), análisis: potencia maximizada",
+    "description": "La llegada del Mac mini supuso para Apple una ofensiva total al mercado de PCs, buscando a los indecisos que aún no se atrevían a probar las bondades de los Mac. Hay quien dice que Steve Jobs en aquel momento no era muy partidario de un modelo así, pero era n…",
+    "url": "https://www.applesfera.com/analisis/apple-mac-mini-m2-pro-analisis-caracteristicas-precio-especificaciones",
+    "urlToImage": "https://i.blogs.es/b014a1/mac-mini-m2-pro-analisis-applesfera-22/840_560.jpeg",
+    "publishedAt": "2023-01-23T14:00:32Z",
+    "content": "La llegada del Mac mini supuso para Apple una ofensiva total al mercado de PCs, buscando a los indecisos que aún no se atrevían a probar las bondades de los Mac. Hay quien dice que Steve Jobs en aque… [+11972 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Pedro Aznar",
+    "title": "MacBook Pro M2 Max (2023), análisis: el nuevo horizonte",
+    "description": "Ahora mismo es fin de semana, un par de días antes de que leáis esto. Me encanta escribir en casa, pero de vez en cuando me escapo a alguna de mis cafeterías favoritas y cambio un poco de escenario. En cierto modo, también me ayuda a estar más concentrado - y…",
+    "url": "https://www.applesfera.com/analisis/apple-macbook-pro-m2-max-analisis-caracteristicas-precio-especificaciones",
+    "urlToImage": "https://i.blogs.es/79d108/macbook-pro-m2-max-analisis-applesfera-104/840_560.jpeg",
+    "publishedAt": "2023-01-23T14:00:01Z",
+    "content": "Ahora mismo es fin de semana, un par de días antes de que leáis esto. Me encanta escribir en casa, pero de vez en cuando me escapo a alguna de mis cafeterías favoritas y cambio un poco de escenario. … [+18714 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "David Bernal Raspall",
+    "title": "Este perrito fue arrastrado por las inundaciones de California durante 1,7 km. Un AirTag salvó su vida en el último momento",
+    "description": "California está sufriendo unas devastadoras inundaciones desde hace ya varios días. La configuración del terreno y varios factores meteorológicos han dejado importantes partes del estado en pésimas condiciones y causado estragos. Entre tanta destrucción, pero…",
+    "url": "https://www.applesfera.com/curiosidades/este-perrito-fue-arrastrado-inundaciones-california-durante-1-7-km-airtag-salvo-su-vida-ultimo-momento",
+    "urlToImage": "https://i.blogs.es/af452b/6aolr4pw4bbntkq4i3tgvq7fki.png/840_560.jpeg",
+    "publishedAt": "2023-01-23T09:10:38Z",
+    "content": "California está sufriendo unas devastadoras inundaciones desde hace ya varios días. La configuración del terreno y varios factores meteorológicos han dejado importantes partes del estado en pésimas c… [+2471 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MakeUseOf"
+    },
+    "author": "Olasubomi Gbenjo",
+    "title": "5 Reasons Apple Should Bring Face ID to the Mac",
+    "description": "Face ID has been a staple of the iPhone for several years, and it's about time the feature makes its way to the Mac. Here, we'll discuss why.",
+    "url": "https://www.makeuseof.com/why-apple-should-bring-face-id-to-the-mac/",
+    "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/14-inch-macbook-pro-on-a-table-in-the-dark.jpg",
+    "publishedAt": "2023-01-23T11:16:15Z",
+    "content": "Most Apple fans can agree on two things regarding the 2021 and 2022 MacBook Pro models. First, the new machines are certainly plenty powerful and stunning. Second, the notch design is a bit confusing… [+4425 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Presse-citron",
+    "title": "Acheter un smartphone chez un opérateur : avantages et inconvénients",
+    "description": "Les offres à quelques euros seulement peuvent sembler très alléchantes au premier abord. Mais il faut savoir lire entre les lignes...",
+    "url": "https://www.presse-citron.net/acheter-smartphone-operateur-avantages-inconvenients/",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2018/10/Presse-Citron-2019-1.jpg",
+    "publishedAt": "2023-01-23T18:00:55Z",
+    "content": "Vous vous préparez peut-être à investir dans un nouveau mobile, pour bien commencer l’année. En consultant les tarifs proposés par les différents vendeurs, vous constatez alors que la facture est bie… [+5978 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Pitchfork"
+    },
+    "author": "Pitchfork",
+    "title": "Boygenius, Kali Uchis, Wednesday, and More: This Week’s Pitchfork Selects Playlist",
+    "description": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
+    "url": "https://pitchfork.com/news/boygenius-kali-uchis-wednesday-this-week-pitchfork-selects/",
+    "urlToImage": "https://media.pitchfork.com/photos/63caf5bcb3ccb9d99b9a01a4/16:9/w_1280,c_limit/Selects%20Web%20(20).jpg",
+    "publishedAt": "2023-01-23T15:24:03Z",
+    "content": "The staff of Pitchfork listens to a lot of new music. A lot of it. On any given day our writers, editors, and contributors go through an imposing number of new releases, giving recommendations to eac… [+1139 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka Android"
+    },
+    "author": "Álvaro Núñez",
+    "title": "Ahora puedes llevarte estos cinco súper chollos durante las ofertas de la Semana Web de MediaMarkt",
+    "description": "Como viendo siendo habitual en todos los meses de enero, muchas de nuestra tiendas favoritas empiezan a rebajar el precio de sus mejores productos. En esta ocasión ha sido MediaMarkt quien ha lanzado su nueva campaña de la Semana Web, dejando una buena rebaja…",
+    "url": "https://www.xatakandroid.com/guias-de-compra/ahora-puedes-llevarte-estos-cinco-super-chollos-durante-ofertas-semana-web-mediamarkt",
+    "urlToImage": "https://i.blogs.es/53fbc4/fachada/840_560.jpg",
+    "publishedAt": "2023-01-23T14:00:25Z",
+    "content": "Como viendo siendo habitual en todos los meses de enero, muchas de nuestra tiendas favoritas empiezan a rebajar el precio de sus mejores productos. En esta ocasión ha sido MediaMarkt quien ha lanzado… [+3101 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Setra",
+    "title": "Samsung concurrence agressivement Netflix avec son app gratuite",
+    "description": "Samsung continue de muscler sa plateforme TV Plus, dont la croissance a doublé en un an.",
+    "url": "https://www.presse-citron.net/samsung-a-un-concurrent-gratuit-a-netflix/",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2023/01/Samsung-TV-Plus.jpg",
+    "publishedAt": "2023-01-23T15:30:46Z",
+    "content": "Comme Apple, Samsung sintéresse aux services. Néanmoins, la plupart de ces services que le géant coréen a lancés nont pas eu le succès escompté. Par exemple, celui-ci avait déjà un service de message… [+3207 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Presse-citron",
+    "title": "Orange Bank est à vendre : quel acteur est prêt à prendre ce risque ?",
+    "description": "Quatre candidats à la reprise examinent actuellement le dossier Orange Bank. La nouvelle directrice du groupe Orange souhaite se débarrasser de cet actif qui plombe les résultats du groupe depuis 2017.",
+    "url": "https://www.presse-citron.net/orange-bank-est-a-vendre-quel-acteur-est-pret-a-prendre-ce-risque/",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2022/03/orange-bank.jpg",
+    "publishedAt": "2023-01-23T12:00:14Z",
+    "content": "Orange Bank était un projet qui tenait particulièrement à coeur à l’ancien PDG du groupe Orange, Stéphane Richard. Certes éloignée du core business de lopérateur, la banque en ligne avait pour object… [+5156 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Espinof.com"
+    },
+    "author": "Albertini",
+    "title": "Apple TV+ también cancela y 'La Costa de los mosquitos' es su primera víctima de 2023: no habrá temporada 3 del thriller familiar protagonizado por Justin Theroux",
+    "description": "Parece que ni Netflix ni HBO son los únicos en cancelar cosas y es Apple TV+ (que suele renovar \"automáticamente\" sus series) la que ha puesto a afilar el hacha cancelador anunciando que 'La Costa de los mosquitos' (The Mosquito Coast) terminará en su tempora…",
+    "url": "https://www.espinof.com/series-de-ficcion/apple-tv-tambien-cancela-costa-mosquitos-su-primera-victima-2023-no-habra-temporada-3-thriller-familiar-protagonizado-justin-theroux",
+    "urlToImage": "https://i.blogs.es/880e1a/costa-mosquitos-t2/840_560.jpeg",
+    "publishedAt": "2023-01-23T12:30:19Z",
+    "content": "Parece que ni Netflix ni HBO son los únicos en cancelar cosas y es Apple TV+ (que suele renovar \"automáticamente\" sus series) la que ha puesto a afilar el hacha cancelador anunciando que 'La Costa de… [+1023 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BGR"
+    },
+    "author": "Jacob Siegal",
+    "title": "iPhone 14 Pro Max no longer has the fastest download speeds",
+    "description": "Shortly after the iPhone 14 launched last fall, network intelligence firm Ookla shared the results of its Q3 2022 Speedtest Intelligence report. According to that …\nThe post iPhone 14 Pro Max no longer has the fastest download speeds appeared first on BGR.",
+    "url": "https://bgr.com/tech/iphone-14-pro-max-no-longer-has-the-fastest-download-speeds/",
+    "urlToImage": "https://bgr.com/wp-content/uploads/2022/09/apple-iphone-14-event-121.jpg?quality=82&strip=all",
+    "publishedAt": "2023-01-23T17:50:00Z",
+    "content": "Shortly after the iPhone 14 launched last fall, network intelligence firm Ookla shared the results of its Q3 2022 Speedtest Intelligence report. According to that report, the iPhone 14 Pro Max had th… [+1591 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "oliver@monkeymanmedia.com (Oliver Haslam)",
+    "title": "Apple Watch saves two lives in pregnancy panic",
+    "description": "A pregnant woman’s Apple Watch detected that something was wrong, prompting her to seek medical advice before giving birth.",
+    "url": "https://www.imore.com/health-fitness/apple-watch/apple-watch-saves-two-lives-in-pregnancy-panic",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/8bDP9BWWVtrJPZWfZfowFM-1200-80.jpg",
+    "publishedAt": "2023-01-23T13:32:57Z",
+    "content": "An Apple Watch helped save the life of a 39-year-old pregnant woman and her baby after it alerted her to an abnormally high heart rate while lying in bed.\r\nThe woman, who was at risk during the pregn… [+1474 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "oliver@monkeymanmedia.com (Oliver Haslam)",
+    "title": "This Apple Watch rip-off has absolutely no shame",
+    "description": "The pTron Force X11S is a new smartwatch that promises a lot, but it’s impossible to get beyond the fact it desperately wants to be an Apple Watch.",
+    "url": "https://www.imore.com/health-fitness/apple-watch/this-apple-watch-rip-off-has-absolutely-no-shame",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/3sWoSXz5LpxcexDqJCpHh8-1200-80.png",
+    "publishedAt": "2023-01-23T17:32:11Z",
+    "content": "We’ve seen plenty of smartwatches try to be the Apple Watch before, but few have come anywhere close to ripping Apple’s hugely popular wearable off quite this well. Introducing the pTron Force X11S.\r… [+1312 chars]"
+    }
+    ]
+
